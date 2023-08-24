@@ -6,22 +6,20 @@ By: Austin Papritz, Hernan Verar, Pier Rodriguez, Raed Alkhanbashi, Shankaron Mo
 
 
 ## ```Description``` &#x1F481; &#x1F4D6;
-The Pokédex Web Application, built on ASP.NET Core MVC, presents users with an intuitive interface to delve into and search for Pokémon cards. It empowers users to effortlessly seek out Pokémon by name and type, while delivering exhaustive details about each unique creature. In terms of functionality, the application enables users to establish profiles, giving them the capacity to curate a collection of their favored Pokémon cards, thereby creating a personal catalog of beloved Pokémon. Dataset downloaded from [www.kaggle.com](https://www.kaggle.com/datasets/dizzypanda/gen-1-pokemon).
+The Pokédex Web Application presents users with an intuitive UI to search for Pokémon cards. The user can search Pokémon by name or type, then adding or removing a Pokémon from their personalized lineup with one click. [Click here](https://www.kaggle.com/datasets/dizzypanda/gen-1-pokemon) to see the dataset used.
 
 ![Sceenshot of search page](/PokedexClient/wwwroot/pokedex_search_ss.png)
 
 
 ## `Utilized Technologies`
-* C#
+
 * ASP.NET Core
-* JavaScript
-* HTML/CSS
+* C# / JavaScript
+* HTML / CSS
 * MySQL
 * Visual Studio Code
 * Entity Framework Core
 * EF Core Identity
-* JQuery
-
 
 ## ```Setup/Installation Requirements``` &#x1F4BB;
 
