@@ -14,12 +14,6 @@ public class PokemonsController : Controller
         _db = db;
     }
 
-    public ActionResult Index()
-    {
-        List<Pokemon> model = _db.Pokemons.ToList();
-        return View(model);
-    }
-
     public ActionResult Search()
     {
         ViewBag.Types = PokemonTypes.Dictionary;
