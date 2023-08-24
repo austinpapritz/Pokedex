@@ -18,8 +18,8 @@ The Pokédex Web Application presents users with an intuitive UI to search for P
 * HTML / CSS
 * MySQL
 * Visual Studio Code
-* Entity Framework Core
 * EF Core Identity
+* CsvHelper
 
 ## ```Setup/Installation Requirements``` &#x1F4BB;
 
@@ -30,7 +30,7 @@ The Pokédex Web Application presents users with an intuitive UI to search for P
 
     ```$ cd Pokemon.Solution```
 
-- _Then enter:_
+- _Add a `.gitignore` file:_
 
     ```$ touch .gitignore```
 
@@ -97,4 +97,8 @@ _We welcome contributions from the community! To contribute to this project:_
 ## ```License``` &#x1F4C4;&#x270D;
 
 Copyright (c) 2023 Austin Papritz, Hernan verar, Pier Rodriguez, Raed Alkhanbashi, Shankaron Mohamed.
+
+You are free to use this project in any way.
+
+Pokémon images and assets owned by _The Pokémon Company_.
 
