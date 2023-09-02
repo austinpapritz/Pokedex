@@ -2,13 +2,13 @@
 
 By: Austin Papritz, Hernan Verar, Pier Rodriguez, Raed Alkhanbashi, Shankaron Mohamed
 
-![Sceenshot of homepage search](/PokedexClient/wwwroot/pokedex_home_ss.png)
+![Sceenshot of homepage search](/PokedexClient/wwwroot/pokedex_home_ss.gif)
 
 
 ## ```Description``` &#x1F481; &#x1F4D6;
 The Pokédex Web Application presents users with an intuitive UI to search for Pokémon cards. The user can search Pokémon by name or type, then adding or removing a Pokémon from their personalized lineup with one click. [Click here](https://www.kaggle.com/datasets/dizzypanda/gen-1-pokemon) to see the dataset used.
 
-![Sceenshot of search page](/PokedexClient/wwwroot/pokedex_search_ss.png)
+![Sceenshot of search page](/PokedexClient/wwwroot/pokedex_search_ss.gif)
 
 
 ## `Utilized Technologies`
